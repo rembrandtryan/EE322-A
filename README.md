@@ -24,7 +24,7 @@ Nothing gold can stay.
 - Celery
 - Fascism
 
-'code'
+`print("hello world");`
 
 ---
 
