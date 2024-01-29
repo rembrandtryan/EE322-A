@@ -22,7 +22,7 @@ Nothing gold can stay.
 ### Stuff I Hate
 - Potholes
 - Celery
-- Fascism
+- Country Music
 
 `print("hello world");`
 
@@ -30,4 +30,4 @@ Nothing gold can stay.
 
 [Bread](https://www.youtube.com/watch?v=q3WC-X7xDNo)
 
-![Me doing stuff](bass.jpg)
+![Me doing stuff](brandtbass.jpg)
